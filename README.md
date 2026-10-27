@@ -19,6 +19,13 @@
 [![Trophies](https://img.shields.io/badge/🏆_Trophies-0f172a?style=for-the-badge)](#-trophies)
 [![Activity](https://img.shields.io/badge/🐍_Activity-0f172a?style=for-the-badge)](#-contribution-activity)
 
+<br/><br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uralov_sherzod)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherzod-uralov-601b242a8/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sh.ulugbekovich)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherzoduralov432@gmail.com)
+
 </div>
 
 <br/>
